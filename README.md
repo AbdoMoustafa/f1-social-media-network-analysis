@@ -1,5 +1,9 @@
 # Formula 1 Social Media Network Analysis
 
+Due to file size limitations on GitHub, the project files are hosted on Google Drive. You can access the necessary files by following the link below:
+
+[Download Large Project Files from Google Drive](https://drive.google.com/drive/folders/12XdyYq2xgTBOXts1mHqqHCjHANWewtq3?usp=sharing)
+
 ## Project Overview
 
 This project conducts a comprehensive network analysis of Formula 1 social media interactions using data from Twitter. It explores various types of networks to uncover patterns and insights in the Formula 1 online community.
